@@ -2,6 +2,8 @@
 
 # open bot in telegram -> gravir123_tg_mini_app1_bot
 
+# TG bot + prisma + express - todo CRUD example
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
